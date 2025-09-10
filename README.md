@@ -139,7 +139,6 @@ ls -l /dev/mychardev
 ## Documentation
 
 - **[CODE_EXPLANATION.md](CODE_EXPLANATION.md)**: Detailed code walkthrough and learning guide
-- **[LICENSE](LICENSE)**: MIT License
 - **Comments in code**: Extensive inline documentation
 
 ## Contributing
