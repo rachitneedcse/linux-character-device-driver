@@ -1,3 +1,4 @@
+
 # Linux Kernel Module - Character Device Driver
 
 [![Linux](https://img.shields.io/badge/Linux-Kernel%20Module-blue?style=for-the-badge&logo=linux)](https://github.com/rahul-challa/linux-char-device-driver)
@@ -150,9 +151,6 @@ ls -l /dev/mychardev
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Important Notes
 
@@ -161,3 +159,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - The device major number is hardcoded to 240 (should be dynamically allocated in production)
 - This is a learning project - not suitable for production use
 - Test on a Linux system (not Windows directly)
+
+# linux-character-device-driver
+f62b0730037a86652f161cd2b8d4dd4119dc4844
