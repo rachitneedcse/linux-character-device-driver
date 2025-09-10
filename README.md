@@ -32,7 +32,6 @@ linux-kernel-module-char-device/
 ├── Makefile             # Kernel module build configuration
 ├── README.md            # This file
 ├── CODE_EXPLANATION.md  # Detailed code walkthrough
-├── LICENSE              # MIT License
 └── .gitignore          # Git ignore rules
 ```
 
