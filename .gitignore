@@ -1,0 +1,34 @@
+# Build artifacts
+*.ko
+*.o
+*.mod.c
+*.mod.o
+modules.order
+Module.symvers
+*.cmd
+
+# Compiled binaries
+test_user
+test_user.exe
+
+# Temporary files
+*~
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# Backup files
+*.bak
+*.backup
+
+# Log files
+*.log
+
+# Device files (if created)
+/dev/mychardev 
