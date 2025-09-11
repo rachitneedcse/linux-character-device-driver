@@ -158,5 +158,4 @@ ls -l /dev/mychardev
 - This is a learning project - not suitable for production use
 - Test on a Linux system (not Windows directly)
 
-# linux-character-device-driver
-f62b0730037a86652f161cd2b8d4dd4119dc4844
+
