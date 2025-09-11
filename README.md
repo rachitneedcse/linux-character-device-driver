@@ -58,7 +58,7 @@ The character device driver provides:
 ### Build and Test
 ```bash
 # Clone the repository
-git clone https://github.com/rahul-challa/linux-char-device-driver.git
+git clone https://github.com/rachitneedcse/linux-character-device-driver.git
 cd linux-kernel-module-char-device
 
 # Build the kernel module
